@@ -1,1 +1,1 @@
-<img src="" alt="Category Image">
+<img src="categoryProducts.png" alt="Category_Image">
